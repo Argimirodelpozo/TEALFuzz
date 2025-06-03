@@ -1,0 +1,6 @@
+#pragma version 8
+
+txna ApplicationArgs 0
+pushint 250
+>
+return
